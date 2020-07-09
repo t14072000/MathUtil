@@ -10,6 +10,7 @@ It is part of Software Engineering course in Semester 4 FPT University, HCMC Cam
 * getignore file
 
 ## Contact me via 
-[GitHub](http://github.com/t14072000)
+1. [GitHub](http://github.com/t14072000)
+2. [Email](t14072000@gmail.com)
 
 ##### © 2020 by blabla
